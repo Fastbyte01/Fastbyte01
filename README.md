@@ -41,6 +41,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fastbyte01&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
  **<h3 align="left">Support Me</h3>**
 
 <p align="left"><a href="https://buymeacoffee.com/Fastbyte01" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=flat-square&logo=buy-me-a-coffee&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://paypal.me/Fastbyte01" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://ko-fi.com/Fastbyte01" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=flat-square&logo=kofi&logoColor=Black" height="28" style="margin-right: 4px"></a> <a href="https://www.patreon.com/Fastbyte01" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white" height="28" style="margin-right: 4px"></a></p>

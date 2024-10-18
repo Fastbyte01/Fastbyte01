@@ -1,7 +1,5 @@
 ![👋 Hi, my name is Giuseppe Pignataro](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=Fastbyte01&label=Profile%20views&color=0e75b6&style=flat)
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -23,7 +21,7 @@
 - 🌱 I'm currently learning: **📚 Exploring myself**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
-- 📝 Blog: **<a href="https://giuseppep.com" target="_blank">https://giuseppep.com</a>**
+- 📝 Blog: **<a href="https://www.giuseppep.com" target="_blank">https://giuseppep.com</a>**
 
 
  **<h3 align="left">Skills</h3>**

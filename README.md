@@ -41,7 +41,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fastbyte01&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fastbyte01)](https://github.com/ryo-ma/github-profile-trophy)
 
  **<h3 align="left">Support Me</h3>**
 

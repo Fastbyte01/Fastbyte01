@@ -21,7 +21,7 @@
 - 🌱 I'm currently learning: **📚 Exploring myself**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
-- 📝 Blog: **<a href="https://www.giuseppep.com" target="_blank">https://www.giuseppep.com</a>**
+- 📝 Blog: **<a href="https://giuseppep.com" target="_blank">https://giuseppep.com</a>**
 
 
  **<h3 align="left">Skills</h3>**
